@@ -1,0 +1,4 @@
+jupyter
+langchain-experimental
+openai
+python-dotenv
